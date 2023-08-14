@@ -1,0 +1,30 @@
+*{
+margin: 0;
+padding: 0;
+text-decoration: none;
+list-style: none;
+box-sizing: border-box;
+}
+
+
+.middle{
+border: 1px solid black ;
+margin-left: 500px;
+margin-top: 250px;
+margin-right: 500px;
+margin-bottom: 400px;
+padding: 20px;
+}
+body{
+    background-image: url(bgg.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 10px;
+}
+h1{
+    text-align: center;
+    
+}
+
+    
